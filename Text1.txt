@@ -1,1 +1,2 @@
 DevOps text file for projects only
+Testing the clone command to see if it works effectively
